@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## [0.33.6](https://github.com/benbrandt/text-splitter/compare/v0.33.5...v0.33.6) - 2026-11-22
+
+### Fixed
+
+- honor chunk capacity for sizers that exceed UTF-8 byte length
+
 ## [0.33.5](https://github.com/benbrandt/text-splitter/compare/v0.33.4...v0.33.5) - 2026-11-21
 
 ### Performance
